@@ -2,6 +2,7 @@
   width: 50%;
   padding: 1rem;
   background: linear-gradient(45deg, #42099d, #000065);
+  background: linear-gradient(45deg, #8585f1, #b2b2e7, #8585f1);
   display: flex;
   flex-direction: column;
   justify-content: space-around;
