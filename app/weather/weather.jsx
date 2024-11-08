@@ -95,7 +95,7 @@ function Weather() {
             className={styles.small_icons}
           ></FontAwesomeIcon>
 
-          <p>
+          <p className="text-center">
             {humidity}% <br /> Humidity
           </p>
         </div>
@@ -106,7 +106,7 @@ function Weather() {
             className={styles.small_icons}
           ></FontAwesomeIcon>
 
-          <p>
+          <p className="text-center">
             {wind} km/h <br /> wind speed
           </p>
         </div>
